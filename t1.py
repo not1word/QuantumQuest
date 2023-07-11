@@ -10,3 +10,4 @@ if __name__ == "__main__":
     password_length = 10
     random_password = generate_random_password(password_length)
     print("Randomly generated password:", random_password)
+111
